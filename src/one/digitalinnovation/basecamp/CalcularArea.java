@@ -6,13 +6,13 @@ public class CalcularArea {
         return;
     }
 
-    public void quadrilateros(double baseMarior, double baseMenor){
-        System.out.println("Área do retangulo: "+ (baseMarior * baseMenor));
+    public void quadrilateros(double baseMaior, double baseMenor){
+        System.out.println("Área do retangulo: "+ (baseMaior * baseMenor));
         return;
     }
 
-    public void quadrilateros(double baseMarior, double baseMenor, double Altura){
-        System.out.println("Área do trapézio: "+ (((baseMarior * baseMenor) * Altura) / 2));
+    public void quadrilateros(double baseMaior, double baseMenor, double Altura){
+        System.out.println("Área do trapézio: "+ (((baseMaior * baseMenor) * Altura) / 2));
         return;
     }
 }
